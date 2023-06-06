@@ -4,7 +4,6 @@
 
 #ifndef WEATHERSERVICE_SERVICE_H
 #define WEATHERSERVICE_SERVICE_H
-
 #pragma once
 #include "Weather.h"
 
@@ -18,5 +17,4 @@ public:
     virtual Weather getWeather(std::string s) = 0;
     virtual ~Service() {}
 };
-
 #endif //WEATHERSERVICE_SERVICE_H
