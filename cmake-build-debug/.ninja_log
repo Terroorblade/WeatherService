@@ -1,7 +1,5 @@
 # ninja log v5
-0	416	1686062266140535719	CMakeFiles/WeatherService.dir/main.cpp.o	8ed33171c1ef7660
-417	461	1686062266187584826	WeatherService	9b74dcb17388f37f
-4	350	1686066464110590209	CMakeFiles/WeatherService.dir/Weather.cpp.o	fedc2ebdb478e4fa
 2	383	1686066464144129156	CMakeFiles/WeatherService.dir/main.cpp.o	8ed33171c1ef7660
-5	892	1686066464650712694	CMakeFiles/WeatherService.dir/JsonService.cpp.o	b6d768885e964b1d
 892	943	1686066464705950640	WeatherService	8e3f42fba0da133a
+4	350	1686066464110590209	CMakeFiles/WeatherService.dir/Weather.cpp.o	fedc2ebdb478e4fa
+5	892	1686066464650712694	CMakeFiles/WeatherService.dir/JsonService.cpp.o	b6d768885e964b1d
