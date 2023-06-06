@@ -21,8 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4845726-f2c7-4925-bb91-5ee63c2bd702" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/XmlService.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlService.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Service.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -3,4 +3,4 @@ project(WeatherService)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(WeatherService main.cpp Weather.cpp Weather.h cmake-build-debug/Service.h XmlService.cpp XmlService.h)
+add_executable(WeatherService main.cpp Weather.cpp Weather.h cmake-build-debug/Service.h XmlService.cpp XmlService.h Service.h)
