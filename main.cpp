@@ -4,5 +4,5 @@ using namespace std;
 
 int main() {
     JsonService js;
-    Weather w = js.getWeather("weather.json");
+    Weather jw = js.getWeather("weather.json");
 }
