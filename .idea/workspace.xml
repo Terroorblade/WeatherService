@@ -22,6 +22,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="b4845726-f2c7-4925-bb91-5ee63c2bd702" name="Changes" comment="" />
 =======
     <list default="true" id="b4845726-f2c7-4925-bb91-5ee63c2bd702" name="Changes" comment="">
@@ -37,6 +38,9 @@
 =======
     <list default="true" id="b4845726-f2c7-4925-bb91-5ee63c2bd702" name="Changes" comment="" />
 >>>>>>> feature-json
+=======
+    <list default="true" id="b4845726-f2c7-4925-bb91-5ee63c2bd702" name="Changes" comment="" />
+>>>>>>> feature-xml
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,18 +85,24 @@
 }</component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feature-json
+=======
+>>>>>>> feature-xml
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> feature-json
 =======
 >>>>>>> feature-json
+=======
+>>>>>>> feature-xml
   <component name="RunManager">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">

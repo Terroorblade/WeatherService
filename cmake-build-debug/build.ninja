@@ -58,8 +58,13 @@ build CMakeFiles/WeatherService.dir/Weather.cpp.o: CXX_COMPILER__WeatherService_
   OBJECT_DIR = CMakeFiles/WeatherService.dir
   OBJECT_FILE_DIR = CMakeFiles/WeatherService.dir
 
+<<<<<<< HEAD
 build CMakeFiles/WeatherService.dir/JsonService.cpp.o: CXX_COMPILER__WeatherService_Debug /Users/terroor/WeatherService/JsonService.cpp || cmake_object_order_depends_target_WeatherService
   DEP_FILE = CMakeFiles/WeatherService.dir/JsonService.cpp.o.d
+=======
+build CMakeFiles/WeatherService.dir/XmlService.cpp.o: CXX_COMPILER__WeatherService_Debug /Users/terroor/WeatherService/XmlService.cpp || cmake_object_order_depends_target_WeatherService
+  DEP_FILE = CMakeFiles/WeatherService.dir/XmlService.cpp.o.d
+>>>>>>> feature-xml
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
   OBJECT_DIR = CMakeFiles/WeatherService.dir
   OBJECT_FILE_DIR = CMakeFiles/WeatherService.dir
@@ -72,7 +77,11 @@ build CMakeFiles/WeatherService.dir/JsonService.cpp.o: CXX_COMPILER__WeatherServ
 #############################################
 # Link the executable WeatherService
 
+<<<<<<< HEAD
 build WeatherService: CXX_EXECUTABLE_LINKER__WeatherService_Debug CMakeFiles/WeatherService.dir/main.cpp.o CMakeFiles/WeatherService.dir/Weather.cpp.o CMakeFiles/WeatherService.dir/JsonService.cpp.o
+=======
+build WeatherService: CXX_EXECUTABLE_LINKER__WeatherService_Debug CMakeFiles/WeatherService.dir/main.cpp.o CMakeFiles/WeatherService.dir/Weather.cpp.o CMakeFiles/WeatherService.dir/XmlService.cpp.o
+>>>>>>> feature-xml
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/WeatherService.dir
   POST_BUILD = :
